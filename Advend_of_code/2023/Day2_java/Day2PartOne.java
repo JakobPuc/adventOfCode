@@ -1,13 +1,10 @@
-package Day2;
-
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.security.Identity;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Day2PartTwo {
+public class Day2PartOne {
 
     public static void main(String[] args) {
         String[] dat = read();
